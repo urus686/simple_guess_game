@@ -4,9 +4,10 @@
 
 ## Как запустить
 
-1. Убедитесь что установлен Pythonя3
-2. Убедитесь что установлен git
-3. Склонируйте репозиторий:
+1. Скачайте файл `simple_guess_game.py`
+2. Откройте терминал или командную строку
+3. Запустите игру:
+
 ```bash
-git clone https://github.com/ваше_имя/simple-guess-game.git
-cd simple-guess-game
+python simple_guess_game.py
+```
